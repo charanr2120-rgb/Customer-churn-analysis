@@ -45,7 +45,5 @@ The dashboard helps stakeholders:
 - Dataset (CSV/Excel)
 
 ## 📌 Conclusion
-This project demonstrates how Power BI can be used to analyze customer behavior and reduce churn through data-driven insights.Dashboard overview<img width="862" height="810" alt="image" src="https://github.com/user-attachments/assets/2dcb873d-bdc1-41b4-9a23-354d09be7dea" />
-<img width="841" height="820" alt="image" src="https://github.com/user-attachments/assets/34328ddc-569c-4c68-8481-d0f3b58808bb" />
-<img width="1517" height="747" alt="image" src="https://github.com/user-attachments/assets/8ddeb26d-475f-4084-8375-eb38a62a4dbd" />
-<img width="998" height="598" alt="image" src="https://github.com/user-attachments/assets/c8a48309-6d12-4a8a-a621-3807366b5d98" />
+This project demonstrates how Power BI can be used to analyze customer behavior and reduce churn through data-driven insights.Dashboard overview<img width="1359" height="738" alt="image" src="https://github.com/user-attachments/assets/eb770106-c0c7-44d6-977f-50e0cef84849" />
+
